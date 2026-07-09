@@ -5,7 +5,7 @@ This is Samin Yasar Al Sami's official own-made self hosted voice cloner that wa
 
 <p align="center">
 
-<img src="./assets/samin-profile.jpg" width="180" alt="Samin Sami">
+<img src="./samin-profile.jpg" width="180" alt="Samin Sami">
 
 </p>
 
