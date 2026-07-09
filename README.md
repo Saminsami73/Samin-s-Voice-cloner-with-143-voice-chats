@@ -44,7 +44,7 @@ Quantized 2.9B • Official Research Project • July 2026
 # লেখক পরিচিতি
 
 <p align="center">
-<img src="./assets/samin-profile.jpg" width="220">
+<img src="./samin-pic.jpg" width="220">
 </p>
 
 **নাম:** Samin Sami
