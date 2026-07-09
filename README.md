@@ -51,7 +51,7 @@ Quantized 2.9B • Official Research Project • July 2026
 
 **দেশ:** বাংলাদেশ
 
-**পেশা:** Software Developer • AI Researcher
+**পেশা:** Full-Stack Web Developer • AI Engineer
 
 উপরের ছবিটি এই রিপোজিটরির মূল লেখকের নিজস্ব আলোকচিত্র এবং লেখকের পরিচয় নিশ্চিত করার উদ্দেশ্যে সংযুক্ত করা হয়েছে।
 
@@ -61,7 +61,7 @@ Quantized 2.9B • Official Research Project • July 2026
 
 এই রিপোজিটরিতে ব্যবহৃত ইংরেজি কণ্ঠস্বর সম্পর্কে সকল ব্যবহারকারীর অবগতির জন্য জানানো যাচ্ছে যে—
 
-এই সফটওয়্যারে ব্যবহৃত কণ্ঠস্বর **Samin Sami-এর প্রকৃত মানব কণ্ঠস্বর নয়।**
+এই সফটওয়্যারে ব্যবহৃত কণ্ঠস্বর **Samin Sami last minute English exam tricks and tips to Mim**  -এর প্রকৃত মানব কণ্ঠস্বর নয়।**
 
 এটি একটি কৃত্রিম বুদ্ধিমত্তাভিত্তিক (Artificial Intelligence) ভয়েস মডেলের মাধ্যমে উৎপাদিত কণ্ঠস্বর।
 
