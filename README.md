@@ -79,6 +79,9 @@ Quantized 2.9B • Official Research Project • July 2026
 
 লিখিত অনুমতি ব্যতীত এই প্রকল্পের কোনো অংশ কপি, পুনঃপ্রকাশ, পুনর্বিতরণ অথবা বাণিজ্যিকভাবে ব্যবহার করা যাবে না।
 
+<p align="center">
+<img src="./vcmind.webp" width="220">
+</p>
 ---
 
 # সংস্করণ
